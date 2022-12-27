@@ -29,10 +29,14 @@ div.container7{
     margin-top: -83%;
 
 }
+img#lop{
+    width:95%;
+}
 div.container5{
     background-color: white;
     width: 640px;
     margin-left: 34%;
+    margin-top: 2%;
 }
 div.container6{
     background-color: white;
@@ -59,7 +63,10 @@ button.button2{
 }
 img#upgrade{
     width: 300px;
-    margin-left: -29%;
+    position:absolute;
+    margin-left: -6%;
+    margin-top: 146px;
+    height: 500px;
 }
 img.package{
     width: 300px;
@@ -103,6 +110,75 @@ h4#four{
     margin-top: -10px;
     font-size: 12px;
 }
+p#company{
+    padding-left: 20px; 
+}
+p#voda{
+    margin-left: 300px;
+    margin-top: -35px;
+}
+p#pay{
+    padding-left: 20px;
+    margin-top: 40px;
+}
+p#pdf{
+    margin-left: 300px;
+    margin-top: -35px; 
+}
+button#confirm{
+    margin-left: 27%;
+    width: 45%;
+    height: 40px;
+    background-color: #3df4fb;
+}
+h2.title2{
+    margin-left: 34%;
+    margin-top: 3%;
+    padding-left: 15%;
+}
+button#add{
+    background-color: black;
+    position:absolute;
+    /* margin-left: 300px;
+    margin-top: 0%;  */
+    margin-top: -45px;
+    margin-left: 80%;
+}
+b.white{
+    color:white;
+}
+h5#instant{
+    padding-left: 5px;
+    margin-top: -5px;
+    font-size: 15px;
+}
+h3#city{
+    padding-left: 65px;
+    margin-top: -40px;
+    font-size: 15px;
+}
+h4#five{
+    padding-left: 65px;
+    margin-top: -10px;
+    font-size: 12px;
+}
+h3#adder{
+    padding-left: 65px;
+    margin-top: -40px;
+    font-size: 15px;
+}
+h4#no{
+    padding-left: 65px;
+    margin-top: -10px;
+    font-size: 12px;
+}
+button#set{
+ color:white;
+ background-color: black;
+ position:absolute;
+ margin-top: -45px;
+ margin-left: 80%;
+}
 section.container2{
     
    
@@ -112,6 +188,21 @@ img#bar1{
     right: 0px;
     top: 0px;
    
+}
+h4#first{
+    position: absolute;
+    margin-top: -195px;
+    margin-left: 100px;
+}
+h4#second{
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 100px;
+}
+h4#third{
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 100px;
 }
 img#tap{
     position: absolute;
