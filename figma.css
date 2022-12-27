@@ -65,7 +65,7 @@ img#upgrade{
     width: 300px;
     position:absolute;
     margin-left: -6%;
-    margin-top: 146px;
+    margin-top: 580px;
     height: 500px;
 }
 img.package{
@@ -196,13 +196,58 @@ h4#first{
 }
 h4#second{
     position: absolute;
-    margin-top: -250px;
+    margin-top: -210px;
     margin-left: 100px;
 }
 h4#third{
     position: absolute;
-    margin-top: -300px;
+    margin-top: -220px;
     margin-left: 100px;
+}
+h4#date1{
+    position: absolute;
+    margin-top: -195px;
+    margin-left: 350px; 
+}
+h4#date2{
+    position: absolute;
+    margin-top: -210px;
+    margin-left: 350px;
+}
+h4#date3{
+    position: absolute;
+    margin-top: -225px;
+    margin-left: 350px;
+}
+h4#transfer{
+    position: absolute;
+    margin-top: -195px;
+    margin-left: 570px;
+}
+h4#repay{
+    position: absolute;
+    margin-top: -195px;
+    margin-left: 570px;
+}
+h4#transfer2{
+    position: absolute;
+    margin-top: -195px;
+    margin-left: 570px;
+}
+h4#price1{
+    position: absolute;
+    margin-top: -195px;
+    margin-left: 770px;
+}
+h4#price2{
+    position: absolute;
+    margin-top: -65px;
+    margin-left: 770px;
+}
+h4#price3{
+    position: absolute;
+    margin-top: -95px;
+    margin-left: 770px;
 }
 img#tap{
     position: absolute;
