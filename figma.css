@@ -21,6 +21,10 @@ div.container3{
 div.container4{
     margin-left: 34%;
     background-color: white;
+    padding-left: 0.7%;
+    padding-top: 0.001%;
+    width: 235px;
+    height: 150px;
   
 }
 div.container41{
@@ -28,6 +32,11 @@ div.container41{
     margin-top: -10%;
     width: 50%;
     background-color: white;
+    padding-left: 0.7%;
+    padding-top: 0.001%;
+    width: 235px;
+    height: 150px;
+    padding-bottom: 1px;
 }
 div.container7{
     margin-left: 82%;
@@ -90,6 +99,9 @@ button#funds{
     width: 45%;
     height: 40px;
     background-color: #00CAD8;
+    border-radius: 8px;
+    border-width: 0px;
+    color:white;
 }
 html{
     background-color: #f9f9f9;;
@@ -135,6 +147,9 @@ button#confirm{
     width: 45%;
     height: 40px;
     background-color: #00CAD8;
+    border-radius: 8px;
+    border-width: 0px;
+    color:white;
 }
 h3.title2{
     margin-left: 34%;
@@ -148,6 +163,8 @@ button#add{
     margin-top: 0%;  */
     margin-top: -45px;
     margin-left: 80%;
+    border-radius: 8px;
+    border-width: 0px;
 }
 b.white{
     color:white;
@@ -188,6 +205,8 @@ button#set{
  position:absolute;
  margin-top: -45px;
  margin-left: 80%;
+ border-radius: 8px;
+    border-width: 0px;
 }
 section.container2{
     
@@ -264,9 +283,47 @@ img#tap{
     left: 90px;
     top:   25px;
 }
+button#invite{
+    background-color: #61d1c6;
+    color: white;
+    width: 120px;
+    height: 30px;
+    border-radius: 8px;
+    border-width: 0px;
+    
+}
+
+
 section.container2{
    
 }
 div.container3{
    
 }
+img#apple1{
+    height: 30px;
+    width: 30px;
+    background-color: white;
+}
+img#play1{
+    height: 30px;
+    width: 30px;
+}
+
+/* button#apple{
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 130px;
+    font-size: 10px;
+}
+button#play{
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    width: 130px;
+    height: 30px;
+}
+p#dowload{
+    margin-top
+} */
