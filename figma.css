@@ -307,6 +307,12 @@ img#lop{
     height: 30px;
     width: 35px;
 }
+p.dater{
+    color: #61d1c6;
+}
+h5#sum{
+    color: grey;
+}
 
 section.container2{
    
