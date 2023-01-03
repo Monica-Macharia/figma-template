@@ -20,12 +20,14 @@ div.container3{
 }
 div.container4{
     margin-left: 34%;
+    background-color: white;
   
 }
 div.container41{
     margin-left: 55%;
     margin-top: -10%;
     width: 50%;
+    background-color: white;
 }
 div.container7{
     margin-left: 82%;
@@ -74,7 +76,7 @@ img#upgrade{
 img.package{
     width: 300px;
 }
-h2#balance{
+h3#balance{
     text-align: center;
     size: 10px;
 }
@@ -92,7 +94,7 @@ button#funds{
 html{
     background-color: #f9f9f9;;
 }
-h2#info{
+h3#info{
     padding: 10px;
 }
 h4#edit{
@@ -103,7 +105,7 @@ h4#edit{
 img#log1{
     padding-left: 20px;
 }
-h2#deposit{
+h4#deposit{
     padding-left: 65px;
     margin-top: -40px;
     font-size: 15px;
@@ -134,7 +136,7 @@ button#confirm{
     height: 40px;
     background-color: #00CAD8;
 }
-h2.title2{
+h3.title2{
     margin-left: 34%;
     margin-top: 3%;
     padding-left: 15%;
@@ -153,7 +155,12 @@ b.white{
 h5#instant{
     padding-left: 5px;
     margin-top: -5px;
-    font-size: 15px;
+    /* font-size: 15px; */
+    color: grey ;
+}
+h5#next{
+    color: grey ;
+    /* font-size: 15px; */
 }
 h3#city{
     padding-left: 65px;
