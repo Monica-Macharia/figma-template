@@ -224,62 +224,69 @@ img#bar1{
 }
 h4#first{
     position: absolute;
-    margin-top: -195px;
+    margin-top: -175px;;
     margin-left: 100px;
+    color: grey;
+    
 }
 h4#second{
     position: absolute;
-    margin-top: -210px;
+    margin-top: -110px;
     margin-left: 100px;
+    color: grey;
 }
 h4#third{
     position: absolute;
-    margin-top: -220px;
+    margin-top: -45px;
     margin-left: 100px;
+    color: grey;
 }
 h4#date1{
     position: absolute;
-    margin-top: -195px;
+    margin-top: -175px;
     margin-left: 350px; 
 }
 h4#date2{
     position: absolute;
-    margin-top: -210px;
+    margin-top: -110px;
     margin-left: 350px;
 }
 h4#date3{
     position: absolute;
-    margin-top: -225px;
+    margin-top: -45px;
     margin-left: 350px;
 }
 h4#transfer{
     position: absolute;
-    margin-top: -195px;
+    margin-top: -175px;
     margin-left: 570px;
+    color: #61d1c6;
 }
 h4#repay{
     position: absolute;
-    margin-top: -195px;
+    margin-top: -110px;
     margin-left: 570px;
+    color: rgb(232, 89, 89);
 }
 h4#transfer2{
     position: absolute;
-    margin-top: -195px;
+    margin-top: -45px;
     margin-left: 570px;
+    color: #61d1c6;
 }
 h4#price1{
     position: absolute;
-    margin-top: -195px;
+    margin-top: -175px;
     margin-left: 770px;
 }
 h4#price2{
     position: absolute;
-    margin-top: -65px;
+    margin-top: -110px;
     margin-left: 770px;
 }
 h4#price3{
     position: absolute;
-    margin-top: -95px;
+    margin-top: -45px;
     margin-left: 770px;
 }
 img#tap{
