@@ -25,6 +25,7 @@ div.container4{
     padding-top: 0.001%;
     width: 235px;
     height: 150px;
+    border-radius: 6px;
   
 }
 div.container41{
@@ -37,6 +38,7 @@ div.container41{
     width: 235px;
     height: 150px;
     padding-bottom: 1px;
+    border-radius: 6px;
 }
 div.container7{
     margin-left: 82%;
@@ -292,7 +294,19 @@ button#invite{
     border-width: 0px;
     
 }
-
+h5#will{
+    color: #61d1c6;
+}
+h3#colored{
+    color: #61d1c6;
+}
+p#greyish{
+    color:grey;
+}
+img#lop{
+    height: 30px;
+    width: 35px;
+}
 
 section.container2{
    
