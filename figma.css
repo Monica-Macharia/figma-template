@@ -1,3 +1,4 @@
+
 section.container1{
     background-color: white;
     height: 69.5px;
@@ -80,16 +81,16 @@ h2#balance{
 h3#six{
     text-align: center;
     font-size:25px;
-    color: #3df4fb;
+    color: #00D3C7;
 }
 button#funds{
     margin-left: 27%;
     width: 45%;
     height: 40px;
-    background-color: #3df4fb;
+    background-color: #00CAD8;
 }
 html{
-    background-color:whitesmoke;
+    background-color: #f9f9f9;;
 }
 h2#info{
     padding: 10px;
@@ -131,7 +132,7 @@ button#confirm{
     margin-left: 27%;
     width: 45%;
     height: 40px;
-    background-color: #3df4fb;
+    background-color: #00CAD8;
 }
 h2.title2{
     margin-left: 34%;
